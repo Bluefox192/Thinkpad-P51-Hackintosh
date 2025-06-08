@@ -1,0 +1,13 @@
+CPU: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz
+GPU: 1. Intel Corporation HD Graphics 630
+     2. NVIDIA Corporation GM107GLM [Quadro M1200 Mobile]
+Chipset model: Manufacturer: LENOVO
+	       Product Name: 20HJS01400
+	       Version: SDK0J40697 WIN
+	       Serial Number: L1HF78200BH
+Input: PS/2 
+Audio CODEC: card 1: PCH [HDA Intel PCH], device 0: ALC298 Analog [ALC298 Analog]
+Network controller: 04:00.0 Network controller: Intel Corporation Wireless 8265 / 8275 
+Drive: INTEL SSDPEKKF256G8L
+
+
